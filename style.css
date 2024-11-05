@@ -1,12 +1,12 @@
 body{
-    color:blue;
+    color:white;
     background: black;
     font-family: "Montserrat", sans-serif;
     margin: 0px;
     margin-bottom: 100px;
 }
 .chamada{
-    background: blueviolet;
+    background: white;
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
