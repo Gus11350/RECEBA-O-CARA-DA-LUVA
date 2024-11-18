@@ -18,3 +18,9 @@ header{
     border-bottom: solid 3px;
     padding: 20px;
 }
+.chamada-texto{
+margin-right: 50;
+}
+h1{
+    font-size: 35px;
+}
