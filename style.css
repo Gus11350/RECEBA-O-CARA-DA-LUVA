@@ -24,3 +24,22 @@ margin-right: 50;
 h1{
     font-size: 35px;
 }
+.chamada{
+    background:white;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 50px;
+}
+.categoria-videos{
+    display: flex;
+    overflow: auto;
+    gap: 10px;
+}
+.categoria-videos img{
+    height: 200px;
+    opacity: 0.5;
+}
+.categoria-videos log:hover{
+    opacity: 1.0;
+    border: 3px solid red;
+}
