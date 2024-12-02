@@ -6,14 +6,14 @@ body{
     margin-bottom: 100px;
 }
 .chamada{
-    background: gray;
+    background: green;
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
     justify-content: center;
 }
 header{
-    color: black;
+    color: red;
     font-size: 40px;
     border-bottom: solid 3px;
     padding: 20px;
@@ -25,7 +25,7 @@ h1{
     font-size: 35px;
 }
 .chamada{
-    background:white;
+    background:blue;
     padding-left: 20px;
     padding-right: 20px;
     margin-top: 50px;
@@ -41,5 +41,5 @@ h1{
 }
 .categoria-videos log:hover{
     opacity: 1.0;
-    border: 3px solid red;
+    border: 3px solid yellow;
 }
